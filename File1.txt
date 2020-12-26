@@ -1,1 +1,2 @@
 This is the version one of my project.
+These texts will be going to be committed by us in the git bash.
